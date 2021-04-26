@@ -1,0 +1,51 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account_id: MyString
+  : 
+  ,: MyString
+  category_id: MyString
+  : 
+  ,: MyString
+  product_name: MyString
+  : MyText
+  ,: MyString
+  price: MyString
+  : 1.5
+  ,: MyString
+  quantity: MyString
+  : 
+  ,: MyString
+  status: MyString
+  : 
+  ,: MyString
+  desc: MyString
+  : MyText
+  ,: MyString
+  sales_person_id: MyString
+  : 
+
+two:
+  account_id: MyString
+  : 
+  ,: MyString
+  category_id: MyString
+  : 
+  ,: MyString
+  product_name: MyString
+  : MyText
+  ,: MyString
+  price: MyString
+  : 1.5
+  ,: MyString
+  quantity: MyString
+  : 
+  ,: MyString
+  status: MyString
+  : 
+  ,: MyString
+  desc: MyString
+  : MyText
+  ,: MyString
+  sales_person_id: MyString
+  : 

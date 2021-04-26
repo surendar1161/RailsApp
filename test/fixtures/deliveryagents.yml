@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  agency_id: 
+  agent_name: MyText
+  phone: MyText
+  is_active: false
+  rating: 
+
+two:
+  agency_id: 
+  agent_name: MyText
+  phone: MyText
+  is_active: false
+  rating: 

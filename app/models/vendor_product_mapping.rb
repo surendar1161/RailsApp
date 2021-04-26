@@ -1,0 +1,2 @@
+class VendorProductMapping < ApplicationRecord
+end

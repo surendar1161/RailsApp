@@ -1,0 +1,2 @@
+class OrderProductMapping < ApplicationRecord
+end
